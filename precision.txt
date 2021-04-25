@@ -1,0 +1,44 @@
+clothing industry
+	Used clothes imports getting costlier
+
+cricket psl (jan 2020 - jun 2020)
+	Victory over Zalmi has given us momentum, says Qalanders' Zaman
+	Steyn gears up for clash against Kings
+	Amir, Babar shine as Kings outplay Zalmi
+	With reignited passion for victory, Qalandars look to launch comeback against Gladiators
+
+	(Precision )P = relavant retrieved / total retrieved = 4 / 15 = 0.266
+	(Recall ) R = relavant retrieved / total relavant = 4 / 4 = 1
+
+	F = 2 * P * R / P + R 
+	F = 2 * 0.266 * 1 / 0.266 + 1 
+	F = 0.533 / 1.266 = 0.421       => 42.1%
+
+Donald Trump
+	War of words with Trump is least of worries for Iranians
+	US ends funding for reconstruction in Syria
+	Rallies across Pakistan condemn Israel’s brutalities against Palestinians
+	Iranians say uncertainty over nuclear deal is bringing fear
+	Democrats accuse Trump of pursuing reckless foreign policy
+
+	(Precision )P = relavant retrieved / total retrieved = 4 / 6 = 0.67
+	(Recall ) R = relavant retrieved / total relavant = 4 / 5 = 0.8
+
+	F = 2 * P * R / P + R 
+	F = 2 * 0.67 * 0.8 / 0.67 + 0.8 
+	F = 1.06 / 1.47 = 0.721       => 72.1%
+
+Imran khan PTI
+	Imran promises to reform FBR, NAB after coming to power
+	PML-N, PTI leaders involved in massive corruption: Bilawal
+	Sindh condemns Centre’s bid to implicate chief minister in sugar scam
+	PML-N asks judiciary to investigate Imran’s claims about judge
+
+	(Precision )P = relavant retrieved / total retrieved = 3 / 7 = 0.428
+	(Recall ) R = relavant retrieved / total relavant = 3 / 4 = 0.75
+
+	F = 2 * P * R / P + R 
+	F = 2 * 0.428 * 0.75 / 0.428 + 0.75 
+	F = 0.642 / 1.178 = 0.544       => 54.4%
+
+
